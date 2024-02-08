@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "241029369585",
+    "project_id": "leader-dash",
+    "storage_bucket": "leader-dash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241029369585:android:8953de0e20570f846ee350",
+        "android_client_info": {
+          "package_name": "com.celectstudios.leaderdashbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241029369585-k5n49pm7htshucf07naknc0a17rqil62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.celectstudios.leaderdashbusiness",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "241029369585-kc45vunmlrvg7t7p0i9cd9cfk76e34p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8E_YG7pGDzoq_z9FVRsJvfT_0LUe2HDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241029369585-kc45vunmlrvg7t7p0i9cd9cfk76e34p0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241029369585-1bcc4ir3df3kukb8cebvee20s8p1shli.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.celectstudios.leaderdashbusiness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

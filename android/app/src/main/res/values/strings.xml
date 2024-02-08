@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Leader Dash Business</string>
+    <string name="geo_api_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBmaS0B0qwokES4a_CiFNVkVJGkimXkNsk</string>
+</resources>
